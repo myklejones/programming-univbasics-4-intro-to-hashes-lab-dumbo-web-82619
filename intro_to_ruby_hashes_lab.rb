@@ -30,4 +30,5 @@ def update_counting_hash(hash, key)
    games [key]+=1 
  else
    games [key]= 1
+ end
 end

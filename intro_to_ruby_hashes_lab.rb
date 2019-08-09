@@ -32,3 +32,4 @@ else
 end
 hash
 end
+#..was having trouble doing it this way because i wasnt returning the hash after the if statement...

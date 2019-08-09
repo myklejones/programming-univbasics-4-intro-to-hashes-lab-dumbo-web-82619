@@ -25,7 +25,7 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
-  games = {hash => key}
+ # games = {hash => key}
  if games [hash]
    games[hash]+=1 
  else

@@ -29,6 +29,6 @@ def update_counting_hash(hash, key)
  if games [key]
    games [key]+=1 
  else
-   games [key]= 1
+   games [hash]= 1
  end
 end
